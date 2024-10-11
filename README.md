@@ -17,11 +17,11 @@ Here are some screenshots of our application:
 ### Home Page
 ![Home Page](images/1.png)
 
-### Flight Recommendations
-![Flight Recommendations](images/2.png)
+### Flight Search
+![Flight Search](images/2.png)
 
-### Booking Process
-![Booking Process](images/3.png)
+### Flight Recommendations
+![Flight Recommendations](images/3.png)
 
 ### Login
 ![Login](images/4.png)
